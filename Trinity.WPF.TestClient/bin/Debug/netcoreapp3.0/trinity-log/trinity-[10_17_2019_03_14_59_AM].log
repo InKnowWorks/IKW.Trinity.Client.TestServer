@@ -1,0 +1,15 @@
+[10/17/2019 03:14:59 AM][ INFO    ] Loading Graph Engine Extensions.
+[10/17/2019 03:14:59 AM][ INFO    ] Scanning for TSL storage extension.
+[10/17/2019 03:14:59 AM][ INFO    ] No TSL storage extension loaded.
+[10/17/2019 03:14:59 AM][ INFO    ] Scanning for MemoryCloud extensions.
+[10/17/2019 03:14:59 AM][ INFO    ] Scanning for startup tasks.
+[10/17/2019 03:14:59 AM][ INFO    ] EventLoop: Starting.
+[10/17/2019 03:14:59 AM][ INFO    ] TrinityClient: scanning for client connection factory.
+[10/17/2019 03:14:59 AM][ INFO    ] MemoryCloud extension 'ClientMemoryCloud' loaded.
+[10/17/2019 03:14:59 AM][ INFO    ] Scanning for auto-registered communication modules.
+[10/17/2019 03:15:00 AM][ INFO    ] Working Directory: I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\Trinity.WPF.TestClient\bin\Debug\netcoreapp3.0\
+[10/17/2019 03:15:00 AM][ INFO    ] StorageRoot : I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\Trinity.WPF.TestClient\bin\Debug\netcoreapp3.0\storage\
+[10/17/2019 03:15:00 AM][ INFO    ] LogDirectory: I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\Trinity.WPF.TestClient\bin\Debug\netcoreapp3.0\trinity-log
+[10/17/2019 03:15:00 AM][ INFO    ] LoggingLevel: Info
+[10/17/2019 03:15:00 AM][ INFO    ] HttpPort:     80
+[10/17/2019 03:15:00 AM][ INFO    ] Client -1 is successfully started.

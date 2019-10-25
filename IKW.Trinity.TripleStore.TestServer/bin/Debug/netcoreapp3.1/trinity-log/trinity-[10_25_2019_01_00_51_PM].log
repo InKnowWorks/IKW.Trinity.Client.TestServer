@@ -1,0 +1,650 @@
+[10/25/2019 01:00:54 PM][ DEBUG   ] Starting communication instance.
+[10/25/2019 01:00:54 PM][ INFO    ] Loading Graph Engine Extensions.
+[10/25/2019 01:00:54 PM][ DEBUG   ] AssemblyUtility: System.Diagnostics.Debug, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:54 PM][ DEBUG   ] AssemblyUtility: System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:54 PM][ DEBUG   ] AssemblyUtility: System.Runtime.Extensions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:55 PM][ DEBUG   ] AssemblyUtility: System.Diagnostics.Debug, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:55 PM][ DEBUG   ] AssemblyUtility: ReactiveProperty, Version=6.1.3.0, Culture=neutral, PublicKeyToken=910d1732782c71cb loaded.
+[10/25/2019 01:00:55 PM][ DEBUG   ] AssemblyUtility: System.Reactive, Version=4.1.0.0, Culture=neutral, PublicKeyToken=94bc3704cddfc263 loaded.
+[10/25/2019 01:00:55 PM][ DEBUG   ] AssemblyUtility: System.Threading.Tasks, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:55 PM][ DEBUG   ] AssemblyUtility: System.Collections, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:55 PM][ DEBUG   ] AssemblyUtility: System.Linq.Expressions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:55 PM][ DEBUG   ] AssemblyUtility: System.Collections.Concurrent, Version=4.0.14.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:55 PM][ DEBUG   ] AssemblyUtility: System.Net.HttpListener, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 loaded.
+[10/25/2019 01:00:55 PM][ DEBUG   ] AssemblyUtility: Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed loaded.
+[10/25/2019 01:00:55 PM][ DEBUG   ] AssemblyUtility: System.Linq.Parallel, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:55 PM][ DEBUG   ] AssemblyUtility: System.Linq, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:55 PM][ DEBUG   ] AssemblyUtility: System.Linq.Queryable, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:55 PM][ DEBUG   ] AssemblyUtility: System.Threading, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:55 PM][ DEBUG   ] AssemblyUtility: netstandard, Version=2.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 loaded.
+[10/25/2019 01:00:55 PM][ DEBUG   ] AssemblyUtility: System.IO.MemoryMappedFiles, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:55 PM][ DEBUG   ] AssemblyUtility: System.IO.Pipes, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:55 PM][ DEBUG   ] AssemblyUtility: System.Diagnostics.Process, Version=4.2.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:55 PM][ DEBUG   ] AssemblyUtility: System.Security.Cryptography.X509Certificates, Version=4.2.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:55 PM][ DEBUG   ] AssemblyUtility: System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 loaded.
+[10/25/2019 01:00:55 PM][ DEBUG   ] AssemblyUtility: System.Diagnostics.Tools, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:55 PM][ DEBUG   ] AssemblyUtility: System.Collections.Concurrent, Version=4.0.15.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:55 PM][ DEBUG   ] AssemblyUtility: System.ComponentModel.TypeConverter, Version=4.2.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:55 PM][ DEBUG   ] AssemblyUtility: System.ComponentModel.EventBasedAsync, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:55 PM][ DEBUG   ] AssemblyUtility: System.ComponentModel.Primitives, Version=4.2.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:55 PM][ DEBUG   ] AssemblyUtility: System.ComponentModel, Version=4.0.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:55 PM][ DEBUG   ] AssemblyUtility: System.Data.Common, Version=4.2.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:55 PM][ DEBUG   ] AssemblyUtility: System.Diagnostics.TraceSource, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:55 PM][ DEBUG   ] AssemblyUtility: System.Diagnostics.Contracts, Version=4.0.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:55 PM][ DEBUG   ] AssemblyUtility: System.Diagnostics.TextWriterTraceListener, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:55 PM][ DEBUG   ] AssemblyUtility: System.Diagnostics.FileVersionInfo, Version=4.0.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:55 PM][ DEBUG   ] AssemblyUtility: System.Drawing.Primitives, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:55 PM][ DEBUG   ] AssemblyUtility: System.IO.Compression.Brotli, Version=4.2.2.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 loaded.
+[10/25/2019 01:00:55 PM][ DEBUG   ] AssemblyUtility: System.IO.Compression, Version=4.2.2.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 loaded.
+[10/25/2019 01:00:55 PM][ DEBUG   ] AssemblyUtility: System.IO.Compression.ZipFile, Version=4.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 loaded.
+[10/25/2019 01:00:55 PM][ DEBUG   ] AssemblyUtility: System.IO.FileSystem.DriveInfo, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:55 PM][ DEBUG   ] AssemblyUtility: System.IO.FileSystem.Watcher, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.IO.IsolatedStorage, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Linq.Queryable, Version=4.0.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Linq.Parallel, Version=4.0.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Net.Requests, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Net.ServicePoint, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Net.NameResolution, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Net.WebClient, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Net.Http, Version=4.2.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Net.WebHeaderCollection, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Net.WebProxy, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Net.Mail, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Net.NetworkInformation, Version=4.2.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Net.Ping, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Net.Security, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Net.Sockets, Version=4.2.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Net.WebSockets.Client, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Runtime.Numerics, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Numerics.Vectors, Version=4.1.6.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Reflection.DispatchProxy, Version=4.0.6.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Reflection.Emit, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Reflection.Emit.Lightweight, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Reflection.Primitives, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Resources.ResourceManager, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Resources.Writer, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Runtime.CompilerServices.VisualC, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Runtime.InteropServices.RuntimeInformation, Version=4.0.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Runtime.Serialization.Primitives, Version=4.2.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Runtime.Serialization.Xml, Version=4.1.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Runtime.Serialization.Json, Version=4.0.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Runtime.Serialization.Formatters, Version=4.0.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Security.Cryptography.Algorithms, Version=4.3.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Security.Cryptography.Csp, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Security.Cryptography.Encoding, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Security.Cryptography.Primitives, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Threading.ThreadPool, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Threading.Tasks.Parallel, Version=4.0.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Threading.Timer, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Transactions.Local, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Web.HttpUtility, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Xml.ReaderWriter, Version=4.2.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Xml.XmlSerializer, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Xml.XPath.XDocument, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Xml.XPath, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Security.Principal.Windows, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.Reflection.Metadata, Version=1.4.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:56 PM][ DEBUG   ] AssemblyUtility: System.ComponentModel.Annotations, Version=4.2.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:57 PM][ DEBUG   ] AssemblyUtility: System.Threading.Tasks.Extensions, Version=4.2.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 loaded.
+[10/25/2019 01:00:57 PM][ DEBUG   ] AssemblyUtility: System.Runtime.InteropServices.WindowsRuntime, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:57 PM][ DEBUG   ] AssemblyUtility: System.Runtime, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:57 PM][ DEBUG   ] AssemblyUtility: System.Resources.ResourceManager, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:57 PM][ DEBUG   ] AssemblyUtility: System.IO, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:57 PM][ DEBUG   ] AssemblyUtility: System.Threading.Tasks, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:57 PM][ DEBUG   ] AssemblyUtility: System.Xml.XDocument, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:57 PM][ DEBUG   ] AssemblyUtility: System.Collections, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:57 PM][ DEBUG   ] AssemblyUtility: System.Globalization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:57 PM][ DEBUG   ] AssemblyUtility: System.Runtime.Serialization.Primitives, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:57 PM][ DEBUG   ] AssemblyUtility: System.Reflection, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:57 PM][ DEBUG   ] AssemblyUtility: System.Dynamic.Runtime, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:57 PM][ DEBUG   ] AssemblyUtility: System.Linq.Expressions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:57 PM][ DEBUG   ] AssemblyUtility: System.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:57 PM][ DEBUG   ] AssemblyUtility: System.Diagnostics.Debug, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:57 PM][ DEBUG   ] AssemblyUtility: System.ObjectModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:57 PM][ DEBUG   ] AssemblyUtility: System.Text.RegularExpressions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:57 PM][ DEBUG   ] AssemblyUtility: System.Xml.ReaderWriter, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:57 PM][ DEBUG   ] AssemblyUtility: System.Text.Encoding, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:57 PM][ DEBUG   ] AssemblyUtility: System.Runtime.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:57 PM][ DEBUG   ] AssemblyUtility: System.Threading, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:57 PM][ DEBUG   ] AssemblyUtility: System.Reflection.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:57 PM][ DEBUG   ] AssemblyUtility: System.Text.Encoding.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:57 PM][ DEBUG   ] AssemblyUtility: Microsoft.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:57 PM][ DEBUG   ] AssemblyUtility: System.Security.AccessControl, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:57 PM][ DEBUG   ] AssemblyUtility: Microsoft.Win32.Registry, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:57 PM][ DEBUG   ] AssemblyUtility: System.Security.Cryptography.Cng, Version=4.3.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:57 PM][ DEBUG   ] AssemblyUtility: System.IO.FileSystem.AccessControl, Version=4.0.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:57 PM][ DEBUG   ] AssemblyUtility: System.Diagnostics.DiagnosticSource, Version=4.0.5.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 loaded.
+[10/25/2019 01:00:57 PM][ DEBUG   ] AssemblyUtility: System.Private.DataContractSerialization, Version=4.1.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:57 PM][ DEBUG   ] AssemblyUtility: System.Runtime.CompilerServices.Unsafe, Version=4.0.6.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:57 PM][ DEBUG   ] AssemblyUtility: System.Collections.Immutable, Version=1.2.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:00:57 PM][ INFO    ] Scanning for TSL storage extension.
+[10/25/2019 01:00:57 PM][ INFO    ] TSL storage extension loaded.
+[10/25/2019 01:00:57 PM][ INFO    ] Scanning for MemoryCloud extensions.
+[10/25/2019 01:00:57 PM][ INFO    ] Scanning for startup tasks.
+[10/25/2019 01:00:57 PM][ VERBOSE ] Allocated thread context 0x000001AE0B3B5230.
+[10/25/2019 01:00:57 PM][ DEBUG   ] Unmanaged background thread started.
+[10/25/2019 01:00:57 PM][ DEBUG   ] Managed background thread started
+[10/25/2019 01:00:57 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B353DC0 execution time: 0ms. last executed time: 0
+[10/25/2019 01:00:57 PM][ VERBOSE ] BackgroundThread: current time = 0, sleep time = 10000
+[10/25/2019 01:00:57 PM][ INFO    ] EventLoop: Starting.
+[10/25/2019 01:00:57 PM][ DEBUG   ] EventLoop: Starting worker thread #31728
+[10/25/2019 01:00:57 PM][ DEBUG   ] EventLoop: Starting worker thread #20284
+[10/25/2019 01:00:57 PM][ DEBUG   ] EventLoop: Starting worker thread #31060
+[10/25/2019 01:00:57 PM][ DEBUG   ] EventLoop: Starting worker thread #37944
+[10/25/2019 01:00:57 PM][ DEBUG   ] EventLoop: Starting worker thread #37948
+[10/25/2019 01:00:57 PM][ DEBUG   ] EventLoop: Starting worker thread #37952
+[10/25/2019 01:00:57 PM][ DEBUG   ] EventLoop: Starting worker thread #37956
+[10/25/2019 01:00:57 PM][ DEBUG   ] EventLoop: Starting worker thread #37960
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Starting worker thread #37964
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Starting worker thread #37992
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Starting worker thread #37996
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Starting worker thread #37868
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Starting worker thread #38004
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Starting worker thread #38008
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Starting worker thread #37988
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Starting worker thread #29156
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Starting worker thread #17216
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Starting worker thread #32252
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Starting worker thread #31976
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Starting worker thread #30000
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Starting worker thread #31856
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Starting worker thread #16196
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Starting worker thread #38012
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Starting worker thread #31756
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Starting worker thread #32096
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Starting worker thread #38020
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Starting worker thread #32688
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Starting worker thread #20024
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Starting worker thread #31252
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Starting worker thread #6100
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Starting worker thread #19176
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Starting worker thread #32044
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Starting worker thread #38024
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Starting worker thread #36008
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Starting worker thread #38028
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Starting worker thread #38032
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Starting worker thread #36080
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Starting worker thread #38036
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Starting worker thread #34416
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Starting worker thread #31548
+[10/25/2019 01:00:58 PM][ DEBUG   ] Preserved sync message RemoveCell is registered.
+[10/25/2019 01:00:58 PM][ DEBUG   ] Preserved sync message Shutdown is registered.
+[10/25/2019 01:00:58 PM][ DEBUG   ] Preserved sync message ReportProxy is registered.
+[10/25/2019 01:00:58 PM][ DEBUG   ] Preserved sync message GetCellType is registered.
+[10/25/2019 01:00:58 PM][ DEBUG   ] Preserved sync message SaveStorage is registered.
+[10/25/2019 01:00:58 PM][ DEBUG   ] Preserved sync message UpdateCell is registered.
+[10/25/2019 01:00:58 PM][ DEBUG   ] Preserved sync (rsp) message LoadCell is registered.
+[10/25/2019 01:00:58 PM][ DEBUG   ] Preserved sync (rsp) message LoadCellWithType is registered.
+[10/25/2019 01:00:58 PM][ DEBUG   ] Preserved sync (rsp) message RemoveCell is registered.
+[10/25/2019 01:00:58 PM][ DEBUG   ] Preserved sync (rsp) message Shutdown is registered.
+[10/25/2019 01:00:58 PM][ DEBUG   ] Preserved sync (rsp) message SaveStorage is registered.
+[10/25/2019 01:00:58 PM][ DEBUG   ] Preserved sync (rsp) message UpdateCell is registered.
+[10/25/2019 01:00:58 PM][ DEBUG   ] Preserved sync (rsp) message Sampling is registered.
+[10/25/2019 01:00:58 PM][ DEBUG   ] Preserved sync (rsp) message EchoPing is registered.
+[10/25/2019 01:00:58 PM][ DEBUG   ] Preserved sync (rsp) message FailureNotification is registered.
+[10/25/2019 01:00:58 PM][ DEBUG   ] Preserved sync (rsp) message GetCommunicationSchema is registered.
+[10/25/2019 01:00:58 PM][ DEBUG   ] Preserved sync (rsp) message GetCommunicationModuleOffsets is registered.
+[10/25/2019 01:00:58 PM][ DEBUG   ] Preserved sync (rsp) message ReportProxy is registered.
+[10/25/2019 01:00:58 PM][ DEBUG   ] Preserved sync (rsp) message GetCellType is registered.
+[10/25/2019 01:00:58 PM][ DEBUG   ] Preserved sync (rsp) message QueryMemoryWorkingSet is registered.
+[10/25/2019 01:00:58 PM][ DEBUG   ] Preserved async message Shutdown is registered.
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Registering message handler, ID=0, handler=0x00007FFA232231C4
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Registering message handler, ID=1, handler=0x00007FFA232231C4
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Registering message handler, ID=2, handler=0x00007FFA232231C4
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Registering message handler, ID=3, handler=0x00007FFA232231C4
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Registering message handler, ID=4, handler=0x00007FFA232231C4
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Registering message handler, ID=5, handler=0x00007FFA232231C4
+[10/25/2019 01:00:58 PM][ DEBUG   ] EventLoop: Registering message handler, ID=6, handler=0x00007FFA232231C4
+[10/25/2019 01:00:58 PM][ INFO    ] Listening endpoint :5304
+[10/25/2019 01:00:58 PM][ INFO    ] Waiting for client connection ...
+[10/25/2019 01:00:58 PM][ INFO    ] My IPEndPoint: 121.200.1.77:5304
+[10/25/2019 01:00:58 PM][ ERROR   ] Failed to start HTTP server. HTTP endpoints are disabled.
+[10/25/2019 01:00:58 PM][ INFO    ] MemoryCloud extension 'HostMemoryCloud' loaded.
+[10/25/2019 01:00:58 PM][ INFO    ] *****************************************************
+[10/25/2019 01:00:58 PM][ INFO    ] ServerCount: 0
+[10/25/2019 01:00:58 PM][ INFO    ] ProxyCount: 0
+[10/25/2019 01:00:58 PM][ INFO    ] *****************************************************
+[10/25/2019 01:00:58 PM][ WARNING ] No distributed instances configured. Turning on local test mode.
+[10/25/2019 01:00:58 PM][ VERBOSE ] StorageRoot set to I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\IKW.Trinity.TripleStore.TestServer\bin\Debug\netcoreapp3.1\storage\
+[10/25/2019 01:00:59 PM][ DEBUG   ] Cannot open signature file 'I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\IKW.Trinity.TripleStore.TestServer\bin\Debug\netcoreapp3.1\storage\B\image.sig' for read
+[10/25/2019 01:00:59 PM][ DEBUG   ] Cannot open signature file 'I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\IKW.Trinity.TripleStore.TestServer\bin\Debug\netcoreapp3.1\storage\A\image.sig' for read
+[10/25/2019 01:00:59 PM][ DEBUG   ] Cannot open signature file 'I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\IKW.Trinity.TripleStore.TestServer\bin\Debug\netcoreapp3.1\storage\B\image.sig' for read
+[10/25/2019 01:00:59 PM][ INFO    ] LocalMemoryStorage is initialized in read-write mode
+[10/25/2019 01:00:59 PM][ INFO    ] Initializing logging facility
+[10/25/2019 01:00:59 PM][ DEBUG   ] Loading write-ahead log file I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\IKW.Trinity.TripleStore.TestServer\bin\Debug\netcoreapp3.1\storage\B\write_ahead_log\primary_storage_log_0.dat
+[10/25/2019 01:00:59 PM][ INFO    ] Reading log file.
+[10/25/2019 01:00:59 PM][ INFO    ] Write-ahead-log successfully loaded. Recovered 0 records.
+[10/25/2019 01:00:59 PM][ INFO    ] Creating write-ahead log file I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\IKW.Trinity.TripleStore.TestServer\bin\Debug\netcoreapp3.1\storage\B\write_ahead_log\primary_storage_log_0.dat
+[10/25/2019 01:00:59 PM][ INFO    ] Scanning for auto-registered communication modules.
+[10/25/2019 01:00:59 PM][ INFO    ] Checking Server-Server protocol signatures...
+[10/25/2019 01:00:59 PM][ VERBOSE ] TTLProc: scanning for timed-out clients.
+[10/25/2019 01:00:59 PM][ DEBUG   ] Sync (rsp) message 0 is registered.
+[10/25/2019 01:00:59 PM][ DEBUG   ] Sync message 0 is registered.
+[10/25/2019 01:00:59 PM][ DEBUG   ] Sync (rsp) message 1 is registered.
+[10/25/2019 01:00:59 PM][ DEBUG   ] Sync message 1 is registered.
+[10/25/2019 01:00:59 PM][ DEBUG   ] Sync message 2 is registered.
+[10/25/2019 01:00:59 PM][ DEBUG   ] Sync (rsp) message 2 is registered.
+[10/25/2019 01:00:59 PM][ DEBUG   ] Sync message 3 is registered.
+[10/25/2019 01:00:59 PM][ DEBUG   ] Sync message 4 is registered.
+[10/25/2019 01:00:59 PM][ DEBUG   ] Sync message 5 is registered.
+[10/25/2019 01:00:59 PM][ DEBUG   ] Sync (rsp) message 3 is registered.
+[10/25/2019 01:00:59 PM][ DEBUG   ] Sync (rsp) message 4 is registered.
+[10/25/2019 01:00:59 PM][ DEBUG   ] Sync (rsp) message 5 is registered.
+[10/25/2019 01:00:59 PM][ DEBUG   ] Sync (rsp) message 6 is registered.
+[10/25/2019 01:00:59 PM][ DEBUG   ] Sync (rsp) message 7 is registered.
+[10/25/2019 01:00:59 PM][ DEBUG   ] Sync (rsp) message 8 is registered.
+[10/25/2019 01:00:59 PM][ DEBUG   ] Sync (rsp) message 9 is registered.
+[10/25/2019 01:00:59 PM][ DEBUG   ] Sync message 1 is registered.
+[10/25/2019 01:00:59 PM][ DEBUG   ] Sync (rsp) message 1 is registered.
+[10/25/2019 01:00:59 PM][ DEBUG   ] Sync message 2 is registered.
+[10/25/2019 01:00:59 PM][ DEBUG   ] Sync (rsp) message 2 is registered.
+[10/25/2019 01:00:59 PM][ DEBUG   ] Sync (rsp) message 3 is registered.
+[10/25/2019 01:00:59 PM][ DEBUG   ] Sync (rsp) message 6 is registered.
+[10/25/2019 01:00:59 PM][ DEBUG   ] Sync (rsp) message 8 is registered.
+[10/25/2019 01:00:59 PM][ DEBUG   ] Sync (rsp) message 9 is registered.
+[10/25/2019 01:00:59 PM][ DEBUG   ] Async with response message 0 is registered.
+[10/25/2019 01:00:59 PM][ DEBUG   ] Async with response message 1 is registered.
+[10/25/2019 01:00:59 PM][ DEBUG   ] Async with response message 2 is registered.
+[10/25/2019 01:00:59 PM][ DEBUG   ] Async with response message 3 is registered.
+[10/25/2019 01:00:59 PM][ DEBUG   ] EventLoop: Registering message handler, ID=0, handler=0x00007FFA23223404
+[10/25/2019 01:00:59 PM][ DEBUG   ] EventLoop: Registering message handler, ID=1, handler=0x00007FFA23223404
+[10/25/2019 01:00:59 PM][ DEBUG   ] EventLoop: Registering message handler, ID=2, handler=0x00007FFA23223404
+[10/25/2019 01:00:59 PM][ DEBUG   ] EventLoop: Registering message handler, ID=3, handler=0x00007FFA23223404
+[10/25/2019 01:00:59 PM][ DEBUG   ] EventLoop: Registering message handler, ID=4, handler=0x00007FFA23223404
+[10/25/2019 01:01:00 PM][ DEBUG   ] EventLoop: Registering message handler, ID=5, handler=0x00007FFA23223404
+[10/25/2019 01:01:00 PM][ DEBUG   ] EventLoop: Registering message handler, ID=6, handler=0x00007FFA23223404
+[10/25/2019 01:01:00 PM][ INFO    ] Working Directory: I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\IKW.Trinity.TripleStore.TestServer\bin\Debug\netcoreapp3.1\
+[10/25/2019 01:01:00 PM][ INFO    ] StorageRoot : I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\IKW.Trinity.TripleStore.TestServer\bin\Debug\netcoreapp3.1\storage\
+[10/25/2019 01:01:00 PM][ INFO    ] LogDirectory: I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\IKW.Trinity.TripleStore.TestServer\bin\Debug\netcoreapp3.1\trinity-log
+[10/25/2019 01:01:00 PM][ INFO    ] LoggingLevel: Verbose
+[10/25/2019 01:01:00 PM][ INFO    ] HttpPort:     80
+[10/25/2019 01:01:00 PM][ INFO    ] Server 0 is successfully started.
+[10/25/2019 01:01:08 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B353DC0 execution time: 0ms. last executed time: 10000
+[10/25/2019 01:01:08 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:08 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:08 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 12ms. last executed time: 10012
+[10/25/2019 01:01:08 PM][ VERBOSE ] BackgroundThread: current time = 10012, sleep time = 600
+[10/25/2019 01:01:08 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:08 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:08 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 12ms. last executed time: 10624
+[10/25/2019 01:01:08 PM][ VERBOSE ] BackgroundThread: current time = 10624, sleep time = 600
+[10/25/2019 01:01:09 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:09 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:09 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 13ms. last executed time: 11237
+[10/25/2019 01:01:09 PM][ VERBOSE ] BackgroundThread: current time = 11237, sleep time = 600
+[10/25/2019 01:01:09 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:09 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:09 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 12ms. last executed time: 11849
+[10/25/2019 01:01:09 PM][ VERBOSE ] BackgroundThread: current time = 11849, sleep time = 600
+[10/25/2019 01:01:10 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:10 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:10 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 15ms. last executed time: 12464
+[10/25/2019 01:01:10 PM][ VERBOSE ] BackgroundThread: current time = 12464, sleep time = 600
+[10/25/2019 01:01:11 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:11 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:11 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 15ms. last executed time: 13079
+[10/25/2019 01:01:11 PM][ VERBOSE ] BackgroundThread: current time = 13079, sleep time = 600
+[10/25/2019 01:01:11 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:11 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:11 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 15ms. last executed time: 13694
+[10/25/2019 01:01:11 PM][ VERBOSE ] BackgroundThread: current time = 13694, sleep time = 600
+[10/25/2019 01:01:12 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:12 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:12 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 15ms. last executed time: 14309
+[10/25/2019 01:01:12 PM][ VERBOSE ] BackgroundThread: current time = 14309, sleep time = 600
+[10/25/2019 01:01:13 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:13 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:13 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 15ms. last executed time: 14924
+[10/25/2019 01:01:13 PM][ VERBOSE ] BackgroundThread: current time = 14924, sleep time = 600
+[10/25/2019 01:01:13 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:13 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:13 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 13ms. last executed time: 15537
+[10/25/2019 01:01:13 PM][ VERBOSE ] BackgroundThread: current time = 15537, sleep time = 600
+[10/25/2019 01:01:14 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:14 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:14 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 13ms. last executed time: 16150
+[10/25/2019 01:01:14 PM][ VERBOSE ] BackgroundThread: current time = 16150, sleep time = 600
+[10/25/2019 01:01:15 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:15 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:15 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 13ms. last executed time: 16763
+[10/25/2019 01:01:15 PM][ VERBOSE ] BackgroundThread: current time = 16763, sleep time = 600
+[10/25/2019 01:01:15 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:15 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:15 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 12ms. last executed time: 17375
+[10/25/2019 01:01:15 PM][ VERBOSE ] BackgroundThread: current time = 17375, sleep time = 600
+[10/25/2019 01:01:16 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:16 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:16 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 14ms. last executed time: 17989
+[10/25/2019 01:01:16 PM][ VERBOSE ] BackgroundThread: current time = 17989, sleep time = 600
+[10/25/2019 01:01:16 PM][ VERBOSE ] TTLProc: scanning for timed-out clients.
+[10/25/2019 01:01:16 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:16 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:16 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 15ms. last executed time: 18604
+[10/25/2019 01:01:16 PM][ VERBOSE ] BackgroundThread: current time = 18604, sleep time = 600
+[10/25/2019 01:01:17 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:17 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:17 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 15ms. last executed time: 19219
+[10/25/2019 01:01:17 PM][ VERBOSE ] BackgroundThread: current time = 19219, sleep time = 600
+[10/25/2019 01:01:18 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:18 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:18 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 15ms. last executed time: 19834
+[10/25/2019 01:01:18 PM][ VERBOSE ] BackgroundThread: current time = 19834, sleep time = 166
+[10/25/2019 01:01:18 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B353DC0 execution time: 0ms. last executed time: 20000
+[10/25/2019 01:01:18 PM][ VERBOSE ] BackgroundThread: current time = 20000, sleep time = 434
+[10/25/2019 01:01:18 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:18 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:18 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 13ms. last executed time: 20447
+[10/25/2019 01:01:18 PM][ VERBOSE ] BackgroundThread: current time = 20447, sleep time = 600
+[10/25/2019 01:01:19 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:19 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:19 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 16ms. last executed time: 21063
+[10/25/2019 01:01:19 PM][ VERBOSE ] BackgroundThread: current time = 21063, sleep time = 600
+[10/25/2019 01:01:20 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:20 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:20 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 14ms. last executed time: 21677
+[10/25/2019 01:01:20 PM][ VERBOSE ] BackgroundThread: current time = 21677, sleep time = 600
+[10/25/2019 01:01:20 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:20 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:20 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 14ms. last executed time: 22291
+[10/25/2019 01:01:20 PM][ VERBOSE ] BackgroundThread: current time = 22291, sleep time = 600
+[10/25/2019 01:01:21 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:21 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:21 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 14ms. last executed time: 22905
+[10/25/2019 01:01:21 PM][ VERBOSE ] BackgroundThread: current time = 22905, sleep time = 600
+[10/25/2019 01:01:22 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:22 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:22 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 14ms. last executed time: 23519
+[10/25/2019 01:01:22 PM][ VERBOSE ] BackgroundThread: current time = 23519, sleep time = 600
+[10/25/2019 01:01:22 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:22 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:22 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 15ms. last executed time: 24134
+[10/25/2019 01:01:22 PM][ VERBOSE ] BackgroundThread: current time = 24134, sleep time = 600
+[10/25/2019 01:01:23 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:23 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:23 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 15ms. last executed time: 24749
+[10/25/2019 01:01:23 PM][ VERBOSE ] BackgroundThread: current time = 24749, sleep time = 600
+[10/25/2019 01:01:23 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:23 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:23 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 15ms. last executed time: 25364
+[10/25/2019 01:01:23 PM][ VERBOSE ] BackgroundThread: current time = 25364, sleep time = 600
+[10/25/2019 01:01:24 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:24 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:24 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 14ms. last executed time: 25978
+[10/25/2019 01:01:24 PM][ VERBOSE ] BackgroundThread: current time = 25978, sleep time = 600
+[10/25/2019 01:01:25 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:25 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:25 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 55ms. last executed time: 26633
+[10/25/2019 01:01:25 PM][ VERBOSE ] BackgroundThread: current time = 26633, sleep time = 600
+[10/25/2019 01:01:25 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:25 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:25 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 16ms. last executed time: 27249
+[10/25/2019 01:01:25 PM][ VERBOSE ] BackgroundThread: current time = 27249, sleep time = 600
+[10/25/2019 01:01:26 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:26 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:26 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 16ms. last executed time: 27865
+[10/25/2019 01:01:26 PM][ VERBOSE ] BackgroundThread: current time = 27865, sleep time = 600
+[10/25/2019 01:01:27 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:27 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:27 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 16ms. last executed time: 28481
+[10/25/2019 01:01:27 PM][ VERBOSE ] BackgroundThread: current time = 28481, sleep time = 600
+[10/25/2019 01:01:27 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:27 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:27 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 15ms. last executed time: 29096
+[10/25/2019 01:01:27 PM][ VERBOSE ] BackgroundThread: current time = 29096, sleep time = 600
+[10/25/2019 01:01:28 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:28 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:28 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 15ms. last executed time: 29711
+[10/25/2019 01:01:28 PM][ VERBOSE ] BackgroundThread: current time = 29711, sleep time = 289
+[10/25/2019 01:01:28 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B353DC0 execution time: 0ms. last executed time: 30000
+[10/25/2019 01:01:28 PM][ VERBOSE ] BackgroundThread: current time = 30000, sleep time = 311
+[10/25/2019 01:01:29 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:29 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:29 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 15ms. last executed time: 30326
+[10/25/2019 01:01:29 PM][ VERBOSE ] BackgroundThread: current time = 30326, sleep time = 600
+[10/25/2019 01:01:29 PM][ VERBOSE ] TTLProc: scanning for timed-out clients.
+[10/25/2019 01:01:29 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:29 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:29 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 14ms. last executed time: 30940
+[10/25/2019 01:01:29 PM][ VERBOSE ] BackgroundThread: current time = 30940, sleep time = 600
+[10/25/2019 01:01:30 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:30 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:30 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 15ms. last executed time: 31555
+[10/25/2019 01:01:30 PM][ VERBOSE ] BackgroundThread: current time = 31555, sleep time = 600
+[10/25/2019 01:01:31 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:31 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:31 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 14ms. last executed time: 32169
+[10/25/2019 01:01:31 PM][ VERBOSE ] BackgroundThread: current time = 32169, sleep time = 600
+[10/25/2019 01:01:31 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:31 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:31 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 22ms. last executed time: 32791
+[10/25/2019 01:01:31 PM][ VERBOSE ] BackgroundThread: current time = 32791, sleep time = 600
+[10/25/2019 01:01:32 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:32 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:32 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 16ms. last executed time: 33407
+[10/25/2019 01:01:32 PM][ VERBOSE ] BackgroundThread: current time = 33407, sleep time = 600
+[10/25/2019 01:01:32 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:32 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:32 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 15ms. last executed time: 34022
+[10/25/2019 01:01:33 PM][ VERBOSE ] BackgroundThread: current time = 34022, sleep time = 600
+[10/25/2019 01:01:33 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:33 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:33 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 15ms. last executed time: 34637
+[10/25/2019 01:01:33 PM][ VERBOSE ] BackgroundThread: current time = 34637, sleep time = 600
+[10/25/2019 01:01:34 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:34 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:34 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 16ms. last executed time: 35253
+[10/25/2019 01:01:34 PM][ VERBOSE ] BackgroundThread: current time = 35253, sleep time = 600
+[10/25/2019 01:01:34 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:34 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:34 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 14ms. last executed time: 35867
+[10/25/2019 01:01:34 PM][ VERBOSE ] BackgroundThread: current time = 35867, sleep time = 600
+[10/25/2019 01:01:35 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:35 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:35 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 13ms. last executed time: 36480
+[10/25/2019 01:01:35 PM][ VERBOSE ] BackgroundThread: current time = 36480, sleep time = 600
+[10/25/2019 01:01:36 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:36 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:36 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 14ms. last executed time: 37094
+[10/25/2019 01:01:36 PM][ VERBOSE ] BackgroundThread: current time = 37094, sleep time = 600
+[10/25/2019 01:01:36 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:36 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:36 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 18ms. last executed time: 37712
+[10/25/2019 01:01:36 PM][ VERBOSE ] BackgroundThread: current time = 37712, sleep time = 600
+[10/25/2019 01:01:37 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:37 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:37 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 18ms. last executed time: 38330
+[10/25/2019 01:01:37 PM][ VERBOSE ] BackgroundThread: current time = 38330, sleep time = 600
+[10/25/2019 01:01:38 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:38 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:38 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 14ms. last executed time: 38944
+[10/25/2019 01:01:38 PM][ VERBOSE ] BackgroundThread: current time = 38944, sleep time = 600
+[10/25/2019 01:01:38 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:38 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:38 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 13ms. last executed time: 39557
+[10/25/2019 01:01:38 PM][ VERBOSE ] BackgroundThread: current time = 39557, sleep time = 443
+[10/25/2019 01:01:39 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B353DC0 execution time: 0ms. last executed time: 40000
+[10/25/2019 01:01:39 PM][ VERBOSE ] BackgroundThread: current time = 40000, sleep time = 157
+[10/25/2019 01:01:39 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:39 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:39 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 15ms. last executed time: 40172
+[10/25/2019 01:01:39 PM][ VERBOSE ] BackgroundThread: current time = 40172, sleep time = 600
+[10/25/2019 01:01:39 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:39 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:40 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 15ms. last executed time: 40787
+[10/25/2019 01:01:40 PM][ VERBOSE ] BackgroundThread: current time = 40787, sleep time = 600
+[10/25/2019 01:01:40 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:40 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:40 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 15ms. last executed time: 41402
+[10/25/2019 01:01:40 PM][ VERBOSE ] BackgroundThread: current time = 41402, sleep time = 600
+[10/25/2019 01:01:41 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:41 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:41 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 15ms. last executed time: 42017
+[10/25/2019 01:01:41 PM][ VERBOSE ] BackgroundThread: current time = 42017, sleep time = 600
+[10/25/2019 01:01:41 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:41 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:41 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 15ms. last executed time: 42632
+[10/25/2019 01:01:41 PM][ VERBOSE ] BackgroundThread: current time = 42632, sleep time = 600
+[10/25/2019 01:01:42 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:42 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:42 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 15ms. last executed time: 43247
+[10/25/2019 01:01:42 PM][ VERBOSE ] BackgroundThread: current time = 43247, sleep time = 600
+[10/25/2019 01:01:43 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:43 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:43 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 14ms. last executed time: 43861
+[10/25/2019 01:01:43 PM][ VERBOSE ] BackgroundThread: current time = 43861, sleep time = 600
+[10/25/2019 01:01:43 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:43 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:43 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 13ms. last executed time: 44474
+[10/25/2019 01:01:43 PM][ VERBOSE ] BackgroundThread: current time = 44474, sleep time = 600
+[10/25/2019 01:01:44 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:44 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:44 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 15ms. last executed time: 45089
+[10/25/2019 01:01:44 PM][ VERBOSE ] BackgroundThread: current time = 45089, sleep time = 600
+[10/25/2019 01:01:45 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:45 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:45 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 15ms. last executed time: 45704
+[10/25/2019 01:01:45 PM][ VERBOSE ] BackgroundThread: current time = 45704, sleep time = 600
+[10/25/2019 01:01:45 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:45 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:45 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 15ms. last executed time: 46319
+[10/25/2019 01:01:45 PM][ VERBOSE ] BackgroundThread: current time = 46319, sleep time = 600
+[10/25/2019 01:01:46 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:46 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:46 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 15ms. last executed time: 46934
+[10/25/2019 01:01:46 PM][ VERBOSE ] BackgroundThread: current time = 46934, sleep time = 600
+[10/25/2019 01:01:46 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:46 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:46 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 14ms. last executed time: 47548
+[10/25/2019 01:01:46 PM][ VERBOSE ] BackgroundThread: current time = 47548, sleep time = 600
+[10/25/2019 01:01:47 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:47 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:47 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 16ms. last executed time: 48164
+[10/25/2019 01:01:47 PM][ VERBOSE ] BackgroundThread: current time = 48164, sleep time = 600
+[10/25/2019 01:01:48 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:48 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:48 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 14ms. last executed time: 48778
+[10/25/2019 01:01:48 PM][ VERBOSE ] BackgroundThread: current time = 48778, sleep time = 600
+[10/25/2019 01:01:48 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:48 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:48 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 14ms. last executed time: 49392
+[10/25/2019 01:01:48 PM][ VERBOSE ] BackgroundThread: current time = 49392, sleep time = 600
+[10/25/2019 01:01:49 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:49 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:49 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 14ms. last executed time: 50006
+[10/25/2019 01:01:49 PM][ VERBOSE ] BackgroundThread: current time = 50006, sleep time = 0
+[10/25/2019 01:01:49 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B353DC0 execution time: 0ms. last executed time: 50006
+[10/25/2019 01:01:49 PM][ VERBOSE ] BackgroundThread: current time = 50006, sleep time = 600
+[10/25/2019 01:01:50 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:50 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:50 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 15ms. last executed time: 50621
+[10/25/2019 01:01:50 PM][ VERBOSE ] BackgroundThread: current time = 50621, sleep time = 600
+[10/25/2019 01:01:50 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:50 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:50 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 14ms. last executed time: 51235
+[10/25/2019 01:01:50 PM][ VERBOSE ] BackgroundThread: current time = 51235, sleep time = 600
+[10/25/2019 01:01:51 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:51 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:51 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 16ms. last executed time: 51851
+[10/25/2019 01:01:51 PM][ VERBOSE ] BackgroundThread: current time = 51851, sleep time = 600
+[10/25/2019 01:01:52 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:52 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:52 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 14ms. last executed time: 52465
+[10/25/2019 01:01:52 PM][ VERBOSE ] BackgroundThread: current time = 52465, sleep time = 600
+[10/25/2019 01:01:52 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:52 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:52 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 15ms. last executed time: 53080
+[10/25/2019 01:01:52 PM][ VERBOSE ] BackgroundThread: current time = 53080, sleep time = 600
+[10/25/2019 01:01:53 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:53 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:53 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 13ms. last executed time: 53693
+[10/25/2019 01:01:53 PM][ VERBOSE ] BackgroundThread: current time = 53693, sleep time = 600
+[10/25/2019 01:01:53 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:53 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:53 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 14ms. last executed time: 54307
+[10/25/2019 01:01:53 PM][ VERBOSE ] BackgroundThread: current time = 54307, sleep time = 600
+[10/25/2019 01:01:54 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:54 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:54 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 14ms. last executed time: 54921
+[10/25/2019 01:01:54 PM][ VERBOSE ] BackgroundThread: current time = 54921, sleep time = 600
+[10/25/2019 01:01:55 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:55 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:55 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 14ms. last executed time: 55535
+[10/25/2019 01:01:55 PM][ VERBOSE ] BackgroundThread: current time = 55535, sleep time = 600
+[10/25/2019 01:01:55 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:55 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:55 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 16ms. last executed time: 56151
+[10/25/2019 01:01:55 PM][ VERBOSE ] BackgroundThread: current time = 56151, sleep time = 600
+[10/25/2019 01:01:56 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:56 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:56 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 16ms. last executed time: 56767
+[10/25/2019 01:01:56 PM][ VERBOSE ] BackgroundThread: current time = 56767, sleep time = 600
+[10/25/2019 01:01:57 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:57 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:57 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 16ms. last executed time: 57383
+[10/25/2019 01:01:57 PM][ VERBOSE ] BackgroundThread: current time = 57383, sleep time = 600
+[10/25/2019 01:01:57 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:57 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:57 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 13ms. last executed time: 57996
+[10/25/2019 01:01:57 PM][ VERBOSE ] BackgroundThread: current time = 57996, sleep time = 600
+[10/25/2019 01:01:58 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:58 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:58 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 14ms. last executed time: 58610
+[10/25/2019 01:01:58 PM][ VERBOSE ] BackgroundThread: current time = 58610, sleep time = 600
+[10/25/2019 01:01:59 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:59 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:59 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 16ms. last executed time: 59226
+[10/25/2019 01:01:59 PM][ VERBOSE ] BackgroundThread: current time = 59226, sleep time = 600
+[10/25/2019 01:01:59 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:01:59 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:01:59 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 15ms. last executed time: 59841
+[10/25/2019 01:01:59 PM][ VERBOSE ] BackgroundThread: current time = 59841, sleep time = 165
+[10/25/2019 01:01:59 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B353DC0 execution time: 0ms. last executed time: 60006
+[10/25/2019 01:01:59 PM][ VERBOSE ] BackgroundThread: current time = 60006, sleep time = 435
+[10/25/2019 01:02:00 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:02:00 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:02:00 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 14ms. last executed time: 60455
+[10/25/2019 01:02:00 PM][ VERBOSE ] BackgroundThread: current time = 60455, sleep time = 600
+[10/25/2019 01:02:00 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:02:00 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:02:00 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 16ms. last executed time: 61071
+[10/25/2019 01:02:00 PM][ VERBOSE ] BackgroundThread: current time = 61071, sleep time = 600
+[10/25/2019 01:02:01 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:02:01 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:02:01 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 12ms. last executed time: 61683
+[10/25/2019 01:02:01 PM][ VERBOSE ] BackgroundThread: current time = 61683, sleep time = 600
+[10/25/2019 01:02:02 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:02:02 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:02:02 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 13ms. last executed time: 62296
+[10/25/2019 01:02:02 PM][ VERBOSE ] BackgroundThread: current time = 62296, sleep time = 600
+[10/25/2019 01:02:02 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:02:02 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:02:02 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 13ms. last executed time: 62909
+[10/25/2019 01:02:02 PM][ VERBOSE ] BackgroundThread: current time = 62909, sleep time = 600
+[10/25/2019 01:02:03 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:02:03 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:02:03 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 14ms. last executed time: 63523
+[10/25/2019 01:02:03 PM][ VERBOSE ] BackgroundThread: current time = 63523, sleep time = 600
+[10/25/2019 01:02:04 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:02:04 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:02:04 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 15ms. last executed time: 64138
+[10/25/2019 01:02:04 PM][ VERBOSE ] BackgroundThread: current time = 64138, sleep time = 600
+[10/25/2019 01:02:04 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:02:04 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:02:04 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 14ms. last executed time: 64752
+[10/25/2019 01:02:04 PM][ VERBOSE ] BackgroundThread: current time = 64752, sleep time = 600
+[10/25/2019 01:02:05 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:02:05 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:02:05 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 14ms. last executed time: 65366
+[10/25/2019 01:02:05 PM][ VERBOSE ] BackgroundThread: current time = 65366, sleep time = 600
+[10/25/2019 01:02:06 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:02:06 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:02:06 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 16ms. last executed time: 65982
+[10/25/2019 01:02:06 PM][ VERBOSE ] BackgroundThread: current time = 65982, sleep time = 600
+[10/25/2019 01:02:06 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:02:06 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:02:06 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 14ms. last executed time: 66596
+[10/25/2019 01:02:06 PM][ VERBOSE ] BackgroundThread: current time = 66596, sleep time = 600
+[10/25/2019 01:02:07 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:02:07 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:02:07 PM][ VERBOSE ] BackgroundThread: task 0x000001AE0B4BA800 execution time: 15ms. last executed time: 67211
+[10/25/2019 01:02:07 PM][ VERBOSE ] BackgroundThread: current time = 67211, sleep time = 600

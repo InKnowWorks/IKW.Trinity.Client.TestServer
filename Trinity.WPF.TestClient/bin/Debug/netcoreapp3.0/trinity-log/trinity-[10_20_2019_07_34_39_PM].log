@@ -1,0 +1,53 @@
+[10/20/2019 07:34:39 PM][ INFO    ] Loading Graph Engine Extensions.
+[10/20/2019 07:34:39 PM][ INFO    ] Scanning for TSL storage extension.
+[10/20/2019 07:34:39 PM][ INFO    ] TSL storage extension loaded.
+[10/20/2019 07:34:39 PM][ INFO    ] Scanning for MemoryCloud extensions.
+[10/20/2019 07:34:39 PM][ INFO    ] Scanning for startup tasks.
+[10/20/2019 07:34:39 PM][ INFO    ] EventLoop: Starting.
+[10/20/2019 07:34:39 PM][ INFO    ] TrinityClient: scanning for client connection factory.
+[10/20/2019 07:34:39 PM][ INFO    ] MemoryCloud extension 'ClientMemoryCloud' loaded.
+[10/20/2019 07:34:39 PM][ INFO    ] Scanning for auto-registered communication modules.
+[10/20/2019 07:34:40 PM][ INFO    ] Working Directory: I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\Trinity.WPF.TestClient\bin\Debug\netcoreapp3.0\
+[10/20/2019 07:34:40 PM][ INFO    ] StorageRoot : I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\Trinity.WPF.TestClient\bin\Debug\netcoreapp3.0\storage\
+[10/20/2019 07:34:40 PM][ INFO    ] LogDirectory: I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\Trinity.WPF.TestClient\bin\Debug\netcoreapp3.0\trinity-log
+[10/20/2019 07:34:40 PM][ INFO    ] LoggingLevel: Info
+[10/20/2019 07:34:40 PM][ INFO    ] HttpPort:     80
+[10/20/2019 07:34:40 PM][ INFO    ] Client -1 is successfully started.
+[10/20/2019 07:34:48 PM][ INFO    ] LocalMemoryStorage is initialized in read-write mode
+[10/20/2019 07:34:48 PM][ INFO    ] Initializing logging facility
+[10/20/2019 07:34:48 PM][ INFO    ] Creating write-ahead log file I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\Trinity.WPF.TestClient\bin\Debug\netcoreapp3.0\storage\A\write_ahead_log\primary_storage_log_26.dat
+[10/20/2019 07:34:49 PM][ INFO    ] Saving storage to [SLOT B]
+[10/20/2019 07:34:51 PM][ INFO    ] Save storage complete, image version = 27.
+[10/20/2019 07:34:51 PM][ INFO    ] Creating write-ahead log file I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\Trinity.WPF.TestClient\bin\Debug\netcoreapp3.0\storage\B\write_ahead_log\primary_storage_log_27.dat
+[10/20/2019 07:34:51 PM][ INFO    ] Dropping write-ahead-log file I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\Trinity.WPF.TestClient\bin\Debug\netcoreapp3.0\storage\A\write_ahead_log\primary_storage_log_26.dat
+[10/20/2019 07:34:51 PM][ INFO    ] Saving cell type signatures.
+[10/20/2019 07:34:51 PM][ INFO    ] Saving storage to [SLOT A]
+[10/20/2019 07:34:54 PM][ INFO    ] Save storage complete, image version = 28.
+[10/20/2019 07:34:54 PM][ INFO    ] Creating write-ahead log file I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\Trinity.WPF.TestClient\bin\Debug\netcoreapp3.0\storage\A\write_ahead_log\primary_storage_log_28.dat
+[10/20/2019 07:34:54 PM][ INFO    ] Dropping write-ahead-log file I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\Trinity.WPF.TestClient\bin\Debug\netcoreapp3.0\storage\B\write_ahead_log\primary_storage_log_27.dat
+[10/20/2019 07:34:54 PM][ INFO    ] Saving cell type signatures.
+[10/20/2019 07:34:56 PM][ INFO    ] Saving storage to [SLOT B]
+[10/20/2019 07:34:59 PM][ INFO    ] Save storage complete, image version = 29.
+[10/20/2019 07:34:59 PM][ INFO    ] Creating write-ahead log file I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\Trinity.WPF.TestClient\bin\Debug\netcoreapp3.0\storage\B\write_ahead_log\primary_storage_log_29.dat
+[10/20/2019 07:34:59 PM][ INFO    ] Dropping write-ahead-log file I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\Trinity.WPF.TestClient\bin\Debug\netcoreapp3.0\storage\A\write_ahead_log\primary_storage_log_28.dat
+[10/20/2019 07:34:59 PM][ INFO    ] Saving cell type signatures.
+[10/20/2019 07:34:59 PM][ INFO    ] Saving storage to [SLOT A]
+[10/20/2019 07:35:04 PM][ INFO    ] Save storage complete, image version = 30.
+[10/20/2019 07:35:04 PM][ INFO    ] Creating write-ahead log file I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\Trinity.WPF.TestClient\bin\Debug\netcoreapp3.0\storage\A\write_ahead_log\primary_storage_log_30.dat
+[10/20/2019 07:35:04 PM][ INFO    ] Dropping write-ahead-log file I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\Trinity.WPF.TestClient\bin\Debug\netcoreapp3.0\storage\B\write_ahead_log\primary_storage_log_29.dat
+[10/20/2019 07:35:04 PM][ INFO    ] Saving cell type signatures.
+[10/20/2019 07:35:05 PM][ INFO    ] Saving storage to [SLOT B]
+[10/20/2019 07:35:10 PM][ INFO    ] Save storage complete, image version = 31.
+[10/20/2019 07:35:10 PM][ INFO    ] Creating write-ahead log file I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\Trinity.WPF.TestClient\bin\Debug\netcoreapp3.0\storage\B\write_ahead_log\primary_storage_log_31.dat
+[10/20/2019 07:35:10 PM][ INFO    ] Dropping write-ahead-log file I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\Trinity.WPF.TestClient\bin\Debug\netcoreapp3.0\storage\A\write_ahead_log\primary_storage_log_30.dat
+[10/20/2019 07:35:10 PM][ INFO    ] Saving cell type signatures.
+[10/20/2019 07:35:11 PM][ INFO    ] Saving storage to [SLOT A]
+[10/20/2019 07:35:17 PM][ INFO    ] Save storage complete, image version = 32.
+[10/20/2019 07:35:17 PM][ INFO    ] Creating write-ahead log file I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\Trinity.WPF.TestClient\bin\Debug\netcoreapp3.0\storage\A\write_ahead_log\primary_storage_log_32.dat
+[10/20/2019 07:35:17 PM][ INFO    ] Dropping write-ahead-log file I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\Trinity.WPF.TestClient\bin\Debug\netcoreapp3.0\storage\B\write_ahead_log\primary_storage_log_31.dat
+[10/20/2019 07:35:17 PM][ INFO    ] Saving cell type signatures.
+[10/20/2019 07:35:26 PM][ INFO    ] Saving storage to [SLOT B]
+[10/20/2019 07:35:29 PM][ INFO    ] Save storage complete, image version = 33.
+[10/20/2019 07:35:29 PM][ INFO    ] Creating write-ahead log file I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\Trinity.WPF.TestClient\bin\Debug\netcoreapp3.0\storage\B\write_ahead_log\primary_storage_log_33.dat
+[10/20/2019 07:35:29 PM][ INFO    ] Dropping write-ahead-log file I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\Trinity.WPF.TestClient\bin\Debug\netcoreapp3.0\storage\A\write_ahead_log\primary_storage_log_32.dat
+[10/20/2019 07:35:29 PM][ INFO    ] Saving cell type signatures.

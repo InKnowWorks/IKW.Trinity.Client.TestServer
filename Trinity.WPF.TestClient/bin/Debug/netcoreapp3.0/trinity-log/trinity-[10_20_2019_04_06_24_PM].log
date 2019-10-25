@@ -1,0 +1,9 @@
+[10/20/2019 04:06:24 PM][ INFO    ] Loading Graph Engine Extensions.
+[10/20/2019 04:06:25 PM][ INFO    ] Scanning for TSL storage extension.
+[10/20/2019 04:06:26 PM][ INFO    ] No TSL storage extension loaded.
+[10/20/2019 04:06:26 PM][ INFO    ] Scanning for MemoryCloud extensions.
+[10/20/2019 04:06:26 PM][ INFO    ] Scanning for startup tasks.
+[10/20/2019 04:06:26 PM][ INFO    ] EventLoop: Starting.
+[10/20/2019 04:06:26 PM][ INFO    ] TrinityClient: scanning for client connection factory.
+[10/20/2019 04:06:26 PM][ INFO    ] MemoryCloud extension 'ClientMemoryCloud' loaded.
+[10/20/2019 04:06:26 PM][ INFO    ] Scanning for auto-registered communication modules.

@@ -1,0 +1,39 @@
+[10/16/2019 04:39:55 PM][ INFO    ] Loading Graph Engine Extensions.
+[10/16/2019 04:39:57 PM][ INFO    ] Scanning for TSL storage extension.
+[10/16/2019 04:39:58 PM][ INFO    ] No TSL storage extension loaded.
+[10/16/2019 04:39:58 PM][ INFO    ] Scanning for MemoryCloud extensions.
+[10/16/2019 04:39:58 PM][ INFO    ] Scanning for startup tasks.
+[10/16/2019 04:39:58 PM][ INFO    ] EventLoop: Starting.
+[10/16/2019 04:39:58 PM][ INFO    ] TrinityClient: scanning for client connection factory.
+[10/16/2019 04:39:58 PM][ INFO    ] MemoryCloud extension 'ClientMemoryCloud' loaded.
+[10/16/2019 04:39:58 PM][ INFO    ] Scanning for auto-registered communication modules.
+[10/16/2019 04:39:58 PM][ INFO    ] Working Directory: I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\Trinity.WPF.TestClient\bin\Debug\netcoreapp3.0\
+[10/16/2019 04:39:58 PM][ INFO    ] StorageRoot : I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\Trinity.WPF.TestClient\bin\Debug\netcoreapp3.0\storage\
+[10/16/2019 04:39:58 PM][ INFO    ] LogDirectory: I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\Trinity.WPF.TestClient\bin\Debug\netcoreapp3.0\trinity-log
+[10/16/2019 04:39:58 PM][ INFO    ] LoggingLevel: Info
+[10/16/2019 04:39:58 PM][ INFO    ] HttpPort:     80
+[10/16/2019 04:39:58 PM][ INFO    ] Client -1 is successfully started.
+[10/16/2019 04:40:46 PM][ INFO    ] LocalMemoryStorage is initialized in read-write mode
+[10/16/2019 04:40:46 PM][ INFO    ] Initializing logging facility
+[10/16/2019 04:40:46 PM][ INFO    ] Creating write-ahead log file I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\Trinity.WPF.TestClient\bin\Debug\netcoreapp3.0\storage\B\write_ahead_log\primary_storage_log_0.dat
+[10/16/2019 04:41:01 PM][ ERROR   ] Exceptions are caught in the handler of unknown message, message sn: 19
+[10/16/2019 04:41:01 PM][ ERROR   ] Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+[10/16/2019 04:41:01 PM][ ERROR   ]    at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Trinity.Storage.MemoryCloud.get_Item(Int32 partitionId)
+   at Trinity.Client.TestProtocols.TripleServerBase._PostTriplesToServerHandler(AsynReqRspArgs args) in I:\Trinity.Client.TestProtocols\obj\Debug\netstandard2.0\GeneratedCode\Lib\Protocols.cs:line 129
+   at Trinity.Network.Messaging.AsynReqRspArgs.MessageProcessProc()
+[10/16/2019 04:41:01 PM][ ERROR   ] Message buffer length: 44
+[10/16/2019 04:41:01 PM][ ERROR   ] Hexadecimal dump of the message buffer (first 128 bytes):
+[10/16/2019 04:41:01 PM][ ERROR   ] 
+[10/16/2019 04:41:01 PM][ ERROR   ] 
+
+Address   00 01 02 03 04 05 06 07   08 09 0a 0b 0c 0d 0e 0f
+
+00000000  01 00 00 00 10 74 13 ec   20 00 00 00 06 00 00 00
+00000010  66 00 6f 00 6f 00 04 00   00 00 69 00 73 00 06 00
+00000020  00 00 62 00 61 00 72 00   00 00 00 00 00 00 00 00
+
+
+
+[10/16/2019 04:41:01 PM][ ERROR   ] 
+[10/16/2019 04:41:02 PM][ WARNING ] TrinityClient: server drops our connection. Registering again.

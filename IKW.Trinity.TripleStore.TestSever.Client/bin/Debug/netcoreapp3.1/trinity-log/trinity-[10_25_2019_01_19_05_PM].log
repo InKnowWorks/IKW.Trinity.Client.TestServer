@@ -1,0 +1,18 @@
+[10/25/2019 01:19:05 PM][ INFO    ] Loading Graph Engine Extensions.
+[10/25/2019 01:19:05 PM][ INFO    ] Scanning for TSL storage extension.
+[10/25/2019 01:19:05 PM][ INFO    ] TSL storage extension loaded.
+[10/25/2019 01:19:05 PM][ INFO    ] Scanning for MemoryCloud extensions.
+[10/25/2019 01:19:05 PM][ INFO    ] Scanning for startup tasks.
+[10/25/2019 01:19:05 PM][ INFO    ] EventLoop: Starting.
+[10/25/2019 01:19:05 PM][ INFO    ] TrinityClient: scanning for client connection factory.
+[10/25/2019 01:19:05 PM][ INFO    ] MemoryCloud extension 'ClientMemoryCloud' loaded.
+[10/25/2019 01:19:05 PM][ INFO    ] Scanning for auto-registered communication modules.
+[10/25/2019 01:19:05 PM][ INFO    ] Working Directory: I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\IKW.Trinity.TripleStore.TestSever.Client\bin\Debug\netcoreapp3.1\
+[10/25/2019 01:19:05 PM][ INFO    ] StorageRoot : I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\IKW.Trinity.TripleStore.TestSever.Client\bin\Debug\netcoreapp3.1\storage\
+[10/25/2019 01:19:05 PM][ INFO    ] LogDirectory: I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\IKW.Trinity.TripleStore.TestSever.Client\bin\Debug\netcoreapp3.1\trinity-log
+[10/25/2019 01:19:05 PM][ INFO    ] LoggingLevel: Info
+[10/25/2019 01:19:05 PM][ INFO    ] HttpPort:     80
+[10/25/2019 01:19:05 PM][ INFO    ] Client -1 is successfully started.
+[10/25/2019 01:19:07 PM][ INFO    ] LocalMemoryStorage is initialized in read-write mode
+[10/25/2019 01:19:07 PM][ INFO    ] Initializing logging facility
+[10/25/2019 01:19:07 PM][ FATAL   ] Cannot open write ahead log for read. Exiting.

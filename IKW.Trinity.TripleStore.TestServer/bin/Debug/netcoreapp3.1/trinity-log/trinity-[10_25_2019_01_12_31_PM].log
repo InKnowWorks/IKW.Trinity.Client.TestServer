@@ -1,0 +1,52 @@
+[10/25/2019 01:12:31 PM][ INFO    ] Loading Graph Engine Extensions.
+[10/25/2019 01:12:31 PM][ INFO    ] Scanning for TSL storage extension.
+[10/25/2019 01:12:31 PM][ INFO    ] TSL storage extension loaded.
+[10/25/2019 01:12:31 PM][ INFO    ] Scanning for MemoryCloud extensions.
+[10/25/2019 01:12:31 PM][ INFO    ] Scanning for startup tasks.
+[10/25/2019 01:12:31 PM][ INFO    ] EventLoop: Starting.
+[10/25/2019 01:12:31 PM][ INFO    ] Listening endpoint :5304
+[10/25/2019 01:12:31 PM][ INFO    ] Waiting for client connection ...
+[10/25/2019 01:12:31 PM][ INFO    ] My IPEndPoint: 121.200.1.77:5304
+[10/25/2019 01:12:31 PM][ ERROR   ] Failed to start HTTP server. HTTP endpoints are disabled.
+[10/25/2019 01:12:31 PM][ INFO    ] MemoryCloud extension 'HostMemoryCloud' loaded.
+[10/25/2019 01:12:31 PM][ INFO    ] *****************************************************
+[10/25/2019 01:12:31 PM][ INFO    ] ServerCount: 0
+[10/25/2019 01:12:31 PM][ INFO    ] ProxyCount: 0
+[10/25/2019 01:12:31 PM][ INFO    ] *****************************************************
+[10/25/2019 01:12:31 PM][ WARNING ] No distributed instances configured. Turning on local test mode.
+[10/25/2019 01:12:32 PM][ INFO    ] LocalMemoryStorage is initialized in read-write mode
+[10/25/2019 01:12:32 PM][ INFO    ] Initializing logging facility
+[10/25/2019 01:12:32 PM][ INFO    ] Reading log file.
+[10/25/2019 01:12:32 PM][ INFO    ] Write-ahead-log successfully loaded. Recovered 0 records.
+[10/25/2019 01:12:32 PM][ INFO    ] Creating write-ahead log file I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\IKW.Trinity.TripleStore.TestServer\bin\Debug\netcoreapp3.1\storage\B\write_ahead_log\primary_storage_log_0.dat
+[10/25/2019 01:12:32 PM][ INFO    ] Checking Server-Server protocol signatures...
+[10/25/2019 01:12:32 PM][ INFO    ] Scanning for auto-registered communication modules.
+[10/25/2019 01:12:32 PM][ INFO    ] Working Directory: I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\IKW.Trinity.TripleStore.TestServer\bin\Debug\netcoreapp3.1\
+[10/25/2019 01:12:32 PM][ INFO    ] StorageRoot : I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\IKW.Trinity.TripleStore.TestServer\bin\Debug\netcoreapp3.1\storage\
+[10/25/2019 01:12:32 PM][ INFO    ] LogDirectory: I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\IKW.Trinity.TripleStore.TestServer\bin\Debug\netcoreapp3.1\trinity-log
+[10/25/2019 01:12:32 PM][ INFO    ] LoggingLevel: Info
+[10/25/2019 01:12:32 PM][ INFO    ] HttpPort:     80
+[10/25/2019 01:12:32 PM][ INFO    ] Server 0 is successfully started.
+[10/25/2019 01:13:52 PM][ INFO    ] TTLProc: client [-425615113] timed-out.
+[10/25/2019 01:18:52 PM][ INFO    ] TTLProc: client [-980498411] timed-out.
+[10/25/2019 01:18:52 PM][ ERROR   ] Exceptions are caught in the handler of unknown message, message sn: 142
+[10/25/2019 01:18:52 PM][ ERROR   ] One or more errors occurred. (Client timed out)
+[10/25/2019 01:18:52 PM][ ERROR   ]    at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at Trinity.Client.ClientIStorage.SendMessage(Byte* message, Int32 size)
+   at Trinity.Client.TestProtocols.TripleServerBase._PostTriplesToServerHandler(AsynReqRspArgs args) in I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\Trinity.Client.TestProtocols\obj\Debug\netcoreapp3.0\GeneratedCode\Lib\Protocols.cs:line 129
+   at Trinity.Network.Messaging.AsynReqRspArgs.MessageProcessProc()
+[10/25/2019 01:18:52 PM][ ERROR   ] Message buffer length: 44
+[10/25/2019 01:18:52 PM][ ERROR   ] Hexadecimal dump of the message buffer (first 128 bytes):
+[10/25/2019 01:18:52 PM][ ERROR   ] 
+[10/25/2019 01:18:52 PM][ ERROR   ] 
+
+Address   00 01 02 03 04 05 06 07   08 09 0a 0b 0c 0d 0e 0f
+
+00000000  c0 00 00 00 15 c8 8e c5   20 00 00 00 06 00 00 00
+00000010  66 00 6f 00 6f 00 04 00   00 00 69 00 73 00 06 00
+00000020  00 00 62 00 61 00 72 00   00 00 00 00 fb 7f 00 00
+
+
+
+[10/25/2019 01:18:52 PM][ ERROR   ] 
+[10/25/2019 01:19:42 PM][ INFO    ] TTLProc: client [-1282183844] timed-out.

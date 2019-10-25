@@ -1,0 +1,306 @@
+[10/25/2019 01:09:41 PM][ DEBUG   ] Starting communication instance.
+[10/25/2019 01:09:41 PM][ INFO    ] Loading Graph Engine Extensions.
+[10/25/2019 01:09:41 PM][ DEBUG   ] AssemblyUtility: System.Diagnostics.Debug, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:41 PM][ DEBUG   ] AssemblyUtility: System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 loaded.
+[10/25/2019 01:09:41 PM][ DEBUG   ] AssemblyUtility: netstandard, Version=2.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 loaded.
+[10/25/2019 01:09:41 PM][ DEBUG   ] AssemblyUtility: System.IO.MemoryMappedFiles, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:41 PM][ DEBUG   ] AssemblyUtility: System.IO.Pipes, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:41 PM][ DEBUG   ] AssemblyUtility: System.Diagnostics.Process, Version=4.2.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:41 PM][ DEBUG   ] AssemblyUtility: System.Security.Cryptography.X509Certificates, Version=4.2.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:41 PM][ DEBUG   ] AssemblyUtility: System.Diagnostics.Tools, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:41 PM][ DEBUG   ] AssemblyUtility: System.Collections.Concurrent, Version=4.0.15.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:41 PM][ DEBUG   ] AssemblyUtility: System.ComponentModel.TypeConverter, Version=4.2.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:41 PM][ DEBUG   ] AssemblyUtility: System.ComponentModel.EventBasedAsync, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:41 PM][ DEBUG   ] AssemblyUtility: System.ComponentModel.Primitives, Version=4.2.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:41 PM][ DEBUG   ] AssemblyUtility: System.Data.Common, Version=4.2.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:41 PM][ DEBUG   ] AssemblyUtility: System.Diagnostics.TraceSource, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:41 PM][ DEBUG   ] AssemblyUtility: System.Diagnostics.Contracts, Version=4.0.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:41 PM][ DEBUG   ] AssemblyUtility: System.Diagnostics.TextWriterTraceListener, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:41 PM][ DEBUG   ] AssemblyUtility: System.Diagnostics.FileVersionInfo, Version=4.0.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:41 PM][ DEBUG   ] AssemblyUtility: System.Drawing.Primitives, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:41 PM][ DEBUG   ] AssemblyUtility: System.IO.Compression.Brotli, Version=4.2.2.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.IO.Compression, Version=4.2.2.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.IO.Compression.ZipFile, Version=4.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089 loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.IO.FileSystem.DriveInfo, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.IO.FileSystem.Watcher, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.IO.IsolatedStorage, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Linq.Queryable, Version=4.0.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Linq.Parallel, Version=4.0.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Net.Requests, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Net.ServicePoint, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Net.NameResolution, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Net.WebClient, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Net.Http, Version=4.2.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Net.WebHeaderCollection, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Net.WebProxy, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Net.Mail, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Net.NetworkInformation, Version=4.2.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Net.Ping, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Net.Security, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Net.Sockets, Version=4.2.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Net.WebSockets.Client, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Runtime.Numerics, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Numerics.Vectors, Version=4.1.6.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Reflection.DispatchProxy, Version=4.0.6.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Reflection.Emit, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Reflection.Emit.Lightweight, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Reflection.Primitives, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Resources.Writer, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Runtime.CompilerServices.VisualC, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Runtime.InteropServices.RuntimeInformation, Version=4.0.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Runtime.Serialization.Primitives, Version=4.2.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Runtime.Serialization.Xml, Version=4.1.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Runtime.Serialization.Json, Version=4.0.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Runtime.Serialization.Formatters, Version=4.0.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Security.Cryptography.Algorithms, Version=4.3.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Security.Cryptography.Csp, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Security.Cryptography.Encoding, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Security.Cryptography.Primitives, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Threading.ThreadPool, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Threading.Tasks.Parallel, Version=4.0.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Threading.Timer, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Transactions.Local, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Web.HttpUtility, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Xml.ReaderWriter, Version=4.2.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Xml.XmlSerializer, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Xml.XPath.XDocument, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:42 PM][ DEBUG   ] AssemblyUtility: System.Xml.XPath, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Security.Principal.Windows, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Runtime.Extensions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Diagnostics.Debug, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Threading.Tasks, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Collections, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Linq.Expressions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Collections.Concurrent, Version=4.0.14.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Net.HttpListener, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Linq.Parallel, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Linq, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Linq.Queryable, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Threading, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.ComponentModel.Annotations, Version=4.2.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Threading.Tasks.Extensions, Version=4.2.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Runtime.InteropServices.WindowsRuntime, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Reflection.Metadata, Version=1.4.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Security.AccessControl, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: Microsoft.Win32.Registry, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Security.Cryptography.Cng, Version=4.3.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.IO.FileSystem.AccessControl, Version=4.0.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Diagnostics.DiagnosticSource, Version=4.0.5.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Private.DataContractSerialization, Version=4.1.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Runtime.CompilerServices.Unsafe, Version=4.0.6.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Runtime, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Resources.ResourceManager, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.IO, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Threading.Tasks, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Xml.XDocument, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Collections, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Globalization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Runtime.Serialization.Primitives, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Reflection, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Dynamic.Runtime, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Linq.Expressions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Diagnostics.Debug, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.ObjectModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Text.RegularExpressions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Xml.ReaderWriter, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Text.Encoding, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Runtime.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Threading, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Reflection.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Text.Encoding.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: Microsoft.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ DEBUG   ] AssemblyUtility: System.Collections.Immutable, Version=1.2.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a loaded.
+[10/25/2019 01:09:43 PM][ INFO    ] Scanning for TSL storage extension.
+[10/25/2019 01:09:44 PM][ INFO    ] TSL storage extension loaded.
+[10/25/2019 01:09:44 PM][ INFO    ] Scanning for MemoryCloud extensions.
+[10/25/2019 01:09:44 PM][ INFO    ] Scanning for startup tasks.
+[10/25/2019 01:09:44 PM][ VERBOSE ] Allocated thread context 0x00000230D102A220.
+[10/25/2019 01:09:44 PM][ DEBUG   ] Unmanaged background thread started.
+[10/25/2019 01:09:44 PM][ DEBUG   ] Managed background thread started
+[10/25/2019 01:09:44 PM][ VERBOSE ] BackgroundThread: task 0x00000230D0FD47F0 execution time: 0ms. last executed time: 0
+[10/25/2019 01:09:44 PM][ VERBOSE ] BackgroundThread: current time = 0, sleep time = 10000
+[10/25/2019 01:09:44 PM][ INFO    ] EventLoop: Starting.
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #29188
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #38032
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #36972
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #31528
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #34756
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #25588
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #37480
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #34212
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #32708
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #27496
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #16296
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #9000
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #33532
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #18088
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #20096
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #22576
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #17556
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #37864
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #36796
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #25472
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #37320
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #37456
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #36408
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #26916
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #29048
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #21240
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #20172
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #17724
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #16996
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #16504
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #32720
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #36364
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #30172
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #28408
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #34160
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #35200
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #27048
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #36776
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #23376
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Starting worker thread #32984
+[10/25/2019 01:09:44 PM][ DEBUG   ] Preserved sync message RemoveCell is registered.
+[10/25/2019 01:09:44 PM][ DEBUG   ] Preserved sync message Shutdown is registered.
+[10/25/2019 01:09:44 PM][ DEBUG   ] Preserved sync message ReportProxy is registered.
+[10/25/2019 01:09:44 PM][ DEBUG   ] Preserved sync message GetCellType is registered.
+[10/25/2019 01:09:44 PM][ DEBUG   ] Preserved sync message SaveStorage is registered.
+[10/25/2019 01:09:44 PM][ DEBUG   ] Preserved sync message UpdateCell is registered.
+[10/25/2019 01:09:44 PM][ DEBUG   ] Preserved sync (rsp) message LoadCell is registered.
+[10/25/2019 01:09:44 PM][ DEBUG   ] Preserved sync (rsp) message LoadCellWithType is registered.
+[10/25/2019 01:09:44 PM][ DEBUG   ] Preserved sync (rsp) message RemoveCell is registered.
+[10/25/2019 01:09:44 PM][ DEBUG   ] Preserved sync (rsp) message Shutdown is registered.
+[10/25/2019 01:09:44 PM][ DEBUG   ] Preserved sync (rsp) message SaveStorage is registered.
+[10/25/2019 01:09:44 PM][ DEBUG   ] Preserved sync (rsp) message UpdateCell is registered.
+[10/25/2019 01:09:44 PM][ DEBUG   ] Preserved sync (rsp) message Sampling is registered.
+[10/25/2019 01:09:44 PM][ DEBUG   ] Preserved sync (rsp) message EchoPing is registered.
+[10/25/2019 01:09:44 PM][ DEBUG   ] Preserved sync (rsp) message FailureNotification is registered.
+[10/25/2019 01:09:44 PM][ DEBUG   ] Preserved sync (rsp) message GetCommunicationSchema is registered.
+[10/25/2019 01:09:44 PM][ DEBUG   ] Preserved sync (rsp) message GetCommunicationModuleOffsets is registered.
+[10/25/2019 01:09:44 PM][ DEBUG   ] Preserved sync (rsp) message ReportProxy is registered.
+[10/25/2019 01:09:44 PM][ DEBUG   ] Preserved sync (rsp) message GetCellType is registered.
+[10/25/2019 01:09:44 PM][ DEBUG   ] Preserved sync (rsp) message QueryMemoryWorkingSet is registered.
+[10/25/2019 01:09:44 PM][ DEBUG   ] Preserved async message Shutdown is registered.
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Registering message handler, ID=0, handler=0x00007FFA234D31C4
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Registering message handler, ID=1, handler=0x00007FFA234D31C4
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Registering message handler, ID=2, handler=0x00007FFA234D31C4
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Registering message handler, ID=3, handler=0x00007FFA234D31C4
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Registering message handler, ID=4, handler=0x00007FFA234D31C4
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Registering message handler, ID=5, handler=0x00007FFA234D31C4
+[10/25/2019 01:09:44 PM][ DEBUG   ] EventLoop: Registering message handler, ID=6, handler=0x00007FFA234D31C4
+[10/25/2019 01:09:44 PM][ INFO    ] TrinityClient: scanning for client connection factory.
+[10/25/2019 01:09:45 PM][ INFO    ] MemoryCloud extension 'ClientMemoryCloud' loaded.
+[10/25/2019 01:09:45 PM][ INFO    ] Scanning for auto-registered communication modules.
+[10/25/2019 01:09:45 PM][ VERBOSE ] TTLProc: scanning for timed-out clients.
+[10/25/2019 01:09:45 PM][ DEBUG   ] Sync (rsp) message 0 is registered.
+[10/25/2019 01:09:45 PM][ DEBUG   ] Sync message 0 is registered.
+[10/25/2019 01:09:45 PM][ DEBUG   ] Sync (rsp) message 1 is registered.
+[10/25/2019 01:09:45 PM][ DEBUG   ] Sync message 1 is registered.
+[10/25/2019 01:09:45 PM][ DEBUG   ] Sync message 2 is registered.
+[10/25/2019 01:09:45 PM][ DEBUG   ] Sync (rsp) message 2 is registered.
+[10/25/2019 01:09:45 PM][ DEBUG   ] Sync message 3 is registered.
+[10/25/2019 01:09:45 PM][ DEBUG   ] Sync message 4 is registered.
+[10/25/2019 01:09:45 PM][ DEBUG   ] Sync message 5 is registered.
+[10/25/2019 01:09:45 PM][ DEBUG   ] Sync (rsp) message 3 is registered.
+[10/25/2019 01:09:45 PM][ DEBUG   ] Sync (rsp) message 4 is registered.
+[10/25/2019 01:09:45 PM][ DEBUG   ] Sync (rsp) message 5 is registered.
+[10/25/2019 01:09:45 PM][ DEBUG   ] Sync (rsp) message 6 is registered.
+[10/25/2019 01:09:45 PM][ DEBUG   ] Sync (rsp) message 7 is registered.
+[10/25/2019 01:09:45 PM][ DEBUG   ] Sync (rsp) message 8 is registered.
+[10/25/2019 01:09:45 PM][ DEBUG   ] Sync (rsp) message 9 is registered.
+[10/25/2019 01:09:45 PM][ DEBUG   ] Sync message 1 is registered.
+[10/25/2019 01:09:45 PM][ DEBUG   ] Sync (rsp) message 1 is registered.
+[10/25/2019 01:09:45 PM][ DEBUG   ] Sync message 2 is registered.
+[10/25/2019 01:09:45 PM][ DEBUG   ] Sync (rsp) message 2 is registered.
+[10/25/2019 01:09:45 PM][ DEBUG   ] Sync (rsp) message 3 is registered.
+[10/25/2019 01:09:45 PM][ DEBUG   ] Sync (rsp) message 6 is registered.
+[10/25/2019 01:09:45 PM][ DEBUG   ] Sync (rsp) message 8 is registered.
+[10/25/2019 01:09:45 PM][ DEBUG   ] Sync (rsp) message 9 is registered.
+[10/25/2019 01:09:45 PM][ DEBUG   ] Async with response message 0 is registered.
+[10/25/2019 01:09:45 PM][ DEBUG   ] Async with response message 1 is registered.
+[10/25/2019 01:09:45 PM][ DEBUG   ] Async with response message 2 is registered.
+[10/25/2019 01:09:45 PM][ DEBUG   ] Async with response message 3 is registered.
+[10/25/2019 01:09:45 PM][ DEBUG   ] EventLoop: Registering message handler, ID=0, handler=0x00007FFA234D3384
+[10/25/2019 01:09:45 PM][ DEBUG   ] EventLoop: Registering message handler, ID=1, handler=0x00007FFA234D3384
+[10/25/2019 01:09:45 PM][ DEBUG   ] EventLoop: Registering message handler, ID=2, handler=0x00007FFA234D3384
+[10/25/2019 01:09:45 PM][ DEBUG   ] EventLoop: Registering message handler, ID=3, handler=0x00007FFA234D3384
+[10/25/2019 01:09:45 PM][ DEBUG   ] EventLoop: Registering message handler, ID=4, handler=0x00007FFA234D3384
+[10/25/2019 01:09:45 PM][ DEBUG   ] EventLoop: Registering message handler, ID=5, handler=0x00007FFA234D3384
+[10/25/2019 01:09:45 PM][ DEBUG   ] EventLoop: Registering message handler, ID=6, handler=0x00007FFA234D3384
+[10/25/2019 01:09:45 PM][ INFO    ] Working Directory: I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\IKW.Trinity.TripleStore.TestSever.Client\bin\Debug\netcoreapp3.1\
+[10/25/2019 01:09:45 PM][ INFO    ] StorageRoot : I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\IKW.Trinity.TripleStore.TestSever.Client\bin\Debug\netcoreapp3.1\storage\
+[10/25/2019 01:09:45 PM][ INFO    ] LogDirectory: I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\IKW.Trinity.TripleStore.TestSever.Client\bin\Debug\netcoreapp3.1\trinity-log
+[10/25/2019 01:09:45 PM][ INFO    ] LoggingLevel: Verbose
+[10/25/2019 01:09:45 PM][ INFO    ] HttpPort:     80
+[10/25/2019 01:09:45 PM][ INFO    ] Client -1 is successfully started.
+[10/25/2019 01:09:47 PM][ VERBOSE ] StorageRoot set to I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\IKW.Trinity.TripleStore.TestSever.Client\bin\Debug\netcoreapp3.1\storage\
+[10/25/2019 01:09:47 PM][ DEBUG   ] Cannot open signature file 'I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\IKW.Trinity.TripleStore.TestSever.Client\bin\Debug\netcoreapp3.1\storage\B\image.sig' for read
+[10/25/2019 01:09:47 PM][ DEBUG   ] Cannot open signature file 'I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\IKW.Trinity.TripleStore.TestSever.Client\bin\Debug\netcoreapp3.1\storage\A\image.sig' for read
+[10/25/2019 01:09:47 PM][ DEBUG   ] Cannot open signature file 'I:\IKW-GraphEngineConsoleApps\IKW.Trinity.Client.TestServer\IKW.Trinity.TripleStore.TestSever.Client\bin\Debug\netcoreapp3.1\storage\B\image.sig' for read
+[10/25/2019 01:09:47 PM][ INFO    ] LocalMemoryStorage is initialized in read-write mode
+[10/25/2019 01:09:54 PM][ VERBOSE ] BackgroundThread: task 0x00000230D0FD47F0 execution time: 0ms. last executed time: 10000
+[10/25/2019 01:09:54 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:09:54 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:09:54 PM][ VERBOSE ] BackgroundThread: task 0x00000230D115DA80 execution time: 16ms. last executed time: 10016
+[10/25/2019 01:09:54 PM][ VERBOSE ] BackgroundThread: current time = 10016, sleep time = 600
+[10/25/2019 01:09:54 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:09:54 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:09:54 PM][ VERBOSE ] BackgroundThread: task 0x00000230D115DA80 execution time: 13ms. last executed time: 10629
+[10/25/2019 01:09:54 PM][ VERBOSE ] BackgroundThread: current time = 10629, sleep time = 600
+[10/25/2019 01:09:55 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:09:55 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:09:55 PM][ VERBOSE ] BackgroundThread: task 0x00000230D115DA80 execution time: 13ms. last executed time: 11242
+[10/25/2019 01:09:55 PM][ VERBOSE ] BackgroundThread: current time = 11242, sleep time = 600
+[10/25/2019 01:09:56 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:09:56 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:09:56 PM][ VERBOSE ] BackgroundThread: task 0x00000230D115DA80 execution time: 14ms. last executed time: 11856
+[10/25/2019 01:09:56 PM][ VERBOSE ] BackgroundThread: current time = 11856, sleep time = 600
+[10/25/2019 01:09:56 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:09:56 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:09:56 PM][ VERBOSE ] BackgroundThread: task 0x00000230D115DA80 execution time: 14ms. last executed time: 12470
+[10/25/2019 01:09:56 PM][ VERBOSE ] BackgroundThread: current time = 12470, sleep time = 600
+[10/25/2019 01:09:57 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:09:57 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:09:57 PM][ VERBOSE ] BackgroundThread: task 0x00000230D115DA80 execution time: 13ms. last executed time: 13083
+[10/25/2019 01:09:57 PM][ VERBOSE ] BackgroundThread: current time = 13083, sleep time = 600
+[10/25/2019 01:09:58 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:09:58 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:09:58 PM][ VERBOSE ] BackgroundThread: task 0x00000230D115DA80 execution time: 15ms. last executed time: 13698
+[10/25/2019 01:09:58 PM][ VERBOSE ] BackgroundThread: current time = 13698, sleep time = 600
+[10/25/2019 01:09:58 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:09:58 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:09:58 PM][ VERBOSE ] BackgroundThread: task 0x00000230D115DA80 execution time: 14ms. last executed time: 14312
+[10/25/2019 01:09:58 PM][ VERBOSE ] BackgroundThread: current time = 14312, sleep time = 600
+[10/25/2019 01:09:59 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:09:59 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:09:59 PM][ VERBOSE ] BackgroundThread: task 0x00000230D115DA80 execution time: 12ms. last executed time: 14924
+[10/25/2019 01:09:59 PM][ VERBOSE ] BackgroundThread: current time = 14924, sleep time = 600
+[10/25/2019 01:09:59 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:09:59 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:09:59 PM][ VERBOSE ] BackgroundThread: task 0x00000230D115DA80 execution time: 13ms. last executed time: 15537
+[10/25/2019 01:09:59 PM][ VERBOSE ] BackgroundThread: current time = 15537, sleep time = 600
+[10/25/2019 01:10:00 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:10:00 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:10:00 PM][ VERBOSE ] BackgroundThread: task 0x00000230D115DA80 execution time: 15ms. last executed time: 16152
+[10/25/2019 01:10:00 PM][ VERBOSE ] BackgroundThread: current time = 16152, sleep time = 600
+[10/25/2019 01:10:01 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:10:01 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:10:01 PM][ VERBOSE ] BackgroundThread: task 0x00000230D115DA80 execution time: 13ms. last executed time: 16765
+[10/25/2019 01:10:01 PM][ VERBOSE ] BackgroundThread: current time = 16765, sleep time = 600
+[10/25/2019 01:10:01 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:10:01 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:10:01 PM][ VERBOSE ] BackgroundThread: task 0x00000230D115DA80 execution time: 14ms. last executed time: 17379
+[10/25/2019 01:10:01 PM][ VERBOSE ] BackgroundThread: current time = 17379, sleep time = 600
+[10/25/2019 01:10:02 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:10:02 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:10:02 PM][ VERBOSE ] BackgroundThread: task 0x00000230D115DA80 execution time: 15ms. last executed time: 17994
+[10/25/2019 01:10:02 PM][ VERBOSE ] BackgroundThread: current time = 17994, sleep time = 600
+[10/25/2019 01:10:03 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:10:03 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
+[10/25/2019 01:10:03 PM][ VERBOSE ] BackgroundThread: task 0x00000230D115DA80 execution time: 15ms. last executed time: 18609
+[10/25/2019 01:10:03 PM][ VERBOSE ] BackgroundThread: current time = 18609, sleep time = 600
+[10/25/2019 01:10:03 PM][ VERBOSE ] GCTask: Starting defragmentation, DefragmentationPaused = false.
+[10/25/2019 01:10:03 PM][ VERBOSE ] GCTask: Finishing defragmentation, waiting for 600ms.
