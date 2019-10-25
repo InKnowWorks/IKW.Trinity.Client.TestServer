@@ -648,7 +648,7 @@
       },
       "Trinity.Client.TestProtocols/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v3.0",
+        "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "GraphEngine.Core": "2.0.10068",
           "ReactiveProperty": "6.1.3"

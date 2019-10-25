@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.0": {
+    ".NETCoreApp,Version=v3.1": {
       "GraphEngine.Client/2.0.10068": {
         "type": "package",
         "dependencies": {
@@ -660,7 +660,7 @@
       },
       "Trinity.Client.TestProtocols/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v3.0",
+        "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "GraphEngine.Core": "2.0.10068",
           "ReactiveProperty": "6.1.3"
@@ -3153,7 +3153,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.0": [
+    ".NETCoreApp,Version=v3.1": [
       "GraphEngine.Client >= 2.0.10068",
       "GraphEngine.Core >= 2.0.10068",
       "GraphEngine.Storage.Composite >= 2.0.10068",
@@ -3185,7 +3185,7 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.0"
+        "netcoreapp3.1"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -3197,7 +3197,7 @@
         "https://rocketurbizdev.pkgs.visualstudio.com/_packaging/RUB-SemanticEnhancement-NugetFeed/nuget/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.0": {
+        "netcoreapp3.1": {
           "projectReferences": {
             "I:\\IKW-GraphEngineConsoleApps\\IKW.Trinity.Client.TestServer\\Trinity.Client.TestProtocols\\Trinity.Client.TestProtocols.csproj": {
               "projectPath": "I:\\IKW-GraphEngineConsoleApps\\IKW.Trinity.Client.TestServer\\Trinity.Client.TestProtocols\\Trinity.Client.TestProtocols.csproj"
@@ -3212,7 +3212,7 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.0": {
+      "netcoreapp3.1": {
         "dependencies": {
           "GraphEngine.Client": {
             "target": "Package",
